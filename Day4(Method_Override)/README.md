@@ -1,5 +1,3 @@
-✍️ LinkedIn Post (Day 4 – Method Overriding)
-
 🚀 Day 4 – Java OOPS Interview Preparation (Method Overriding)
 
 As part of my 15 Days Java OOPS Interview Preparation Challenge, I am posting everything on my GitHub:
